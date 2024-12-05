@@ -1,5 +1,7 @@
 package com.models;
 
+// Ejercicio 1 sin lombok
+
 public class Persona {
     // Atributos
     private String nombre;
